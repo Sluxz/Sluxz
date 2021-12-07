@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sluxz
+- 👀 I’m interested in learning something new.
+- 🌱 I’m currently learning: C++, Java, Python, Angel.
+- 💞️ I’m looking to collaborate on everything execept C# Projects and VS Basic.
